@@ -97,6 +97,15 @@
             ],
             "scripts": []
           }
+        },
+        "deploy": {
+          "builder": "angular-cli-ghpages:deploy",
+          "options": {
+            "baseHref": "site",
+            "name": "psanat",
+            "email": "54712878+psanat@users.noreply.github.com",
+            "dryRun": true
+          }
         }
       }
     }
