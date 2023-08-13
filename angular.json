@@ -101,7 +101,7 @@
         "deploy": {
           "builder": "angular-cli-ghpages:deploy",
           "options": {
-            "baseHref": "site",
+            "cname": "lnss.co.in",
             "name": "psanat",
             "email": "54712878+psanat@users.noreply.github.com"
           }
