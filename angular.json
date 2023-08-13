@@ -103,8 +103,7 @@
           "options": {
             "baseHref": "site",
             "name": "psanat",
-            "email": "54712878+psanat@users.noreply.github.com",
-            "dryRun": true
+            "email": "54712878+psanat@users.noreply.github.com"
           }
         }
       }
