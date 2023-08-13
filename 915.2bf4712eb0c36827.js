@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhrongo_site=self.webpackChunkhrongo_site||[]).push([[915],{915:(r,t,n)=>{n.r(t),n.d(t,{ContactModule:()=>l});var c=n(814),a=n(946);let l=(()=>{var o;class u{}return(o=u).\u0275fac=function(e){return new(e||o)},o.\u0275mod=a.oAB({type:o}),o.\u0275inj=a.cJS({imports:[c.ez]}),u})()}}]);
